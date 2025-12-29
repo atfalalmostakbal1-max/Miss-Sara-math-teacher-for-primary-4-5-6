@@ -1,0 +1,7 @@
+{
+  "name": "Miss Sara - Math Teacher (Primary 4-6)",
+  "description": "An interactive AI-powered educational app for the Egyptian math curriculum (Education 2.0) featuring Miss Sara, a friendly and patient teacher. Supports Arabic and English.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
